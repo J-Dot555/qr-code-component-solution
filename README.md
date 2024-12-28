@@ -21,8 +21,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/qr-code-component-using-css-box-model-Fw9kOfyd8l)
-- Live Site URL: [Add live site URL here](https://j-dot555.github.io/qr-code-component-solution/)
+- Solution URL: [https://www.frontendmentor.io/solutions/qr-code-component-using-css-box-model-Fw9kOfyd8l](https://www.frontendmentor.io/solutions/qr-code-component-using-css-box-model-Fw9kOfyd8l)
+- Live Site URL: [https://j-dot555.github.io/qr-code-component-solution/](https://j-dot555.github.io/qr-code-component-solution/)
 
 ## My process
 
