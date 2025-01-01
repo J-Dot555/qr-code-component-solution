@@ -1,8 +1,15 @@
-html {
+:root {
   background-color:  hsl(212, 45%, 89%);
 }
 
-p {
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1,
+span {
   font-family: Outfit;
   margin: 0;
 }
@@ -33,25 +40,25 @@ p {
 
 .qr-code {
   display: block;
-   height: 220px;
-   width: 220px;
-   margin: 0 0 20px 0;
-   border-radius: 10px;
+  height: 14rem;
+  width: 14rem;
+  margin: auto auto 20px auto;
+  border-radius: 10px;
 }
 
-.heading {
+.heading-text {
   text-align: center;
-  font-size: 17px;
+  font-size: 1.063rem;
   font-weight: 700;
-  width: 200px;
+  width: 12.5rem;
   margin: auto auto 12px auto;
   color: hsl(218, 44%, 22%);
 }
 
 .description {
   text-align: center;
-  font-size: 12px;
-  width: 200px;
+  font-size: .75rem;
+  width: 12.5rem;
   color: hsl(216, 15%, 48%);
   margin: auto auto 20px auto;
 }
